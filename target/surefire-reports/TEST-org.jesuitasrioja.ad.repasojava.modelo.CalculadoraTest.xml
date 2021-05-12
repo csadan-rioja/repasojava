@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.jesuitasrioja.ad.repasojava.modelo.CalculadoraTest" time="0.01" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="gopherProxySet" value="false"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/carlos/Dropbox/Jesuitas/entornos de desarrollo (31E_31F) - organizado/3aEvaluacion/2021/Diagramas de clases UML(2)/ED 31E-Entrega-CovidManager-621094/repasojava/target/test-classes:/Users/carlos/Dropbox/Jesuitas/entornos de desarrollo (31E_31F) - organizado/3aEvaluacion/2021/Diagramas de clases UML(2)/ED 31E-Entrega-CovidManager-621094/repasojava/target/classes:/Users/carlos/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/carlos/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="user.country" value="ES"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/carlos/Dropbox/Jesuitas/entornos de desarrollo (31E_31F) - organizado/3aEvaluacion/2021/Diagramas de clases UML(2)/ED 31E-Entrega-CovidManager-621094/repasojava/target/surefire/surefirebooter3892873142801290370.jar /Users/carlos/Dropbox/Jesuitas/entornos de desarrollo (31E_31F) - organizado/3aEvaluacion/2021/Diagramas de clases UML(2)/ED 31E-Entrega-CovidManager-621094/repasojava/target/surefire 2021-05-12T10-06-35_401-jvmRun1 surefire676442952723790109tmp surefire_05309821721441501108tmp"/>
+    <property name="http.nonProxyHosts" value="local, 169.254/16|*.local, 169.254/16"/>
+    <property name="surefire.test.class.path" value="/Users/carlos/Dropbox/Jesuitas/entornos de desarrollo (31E_31F) - organizado/3aEvaluacion/2021/Diagramas de clases UML(2)/ED 31E-Entrega-CovidManager-621094/repasojava/target/test-classes:/Users/carlos/Dropbox/Jesuitas/entornos de desarrollo (31E_31F) - organizado/3aEvaluacion/2021/Diagramas de clases UML(2)/ED 31E-Entrega-CovidManager-621094/repasojava/target/classes:/Users/carlos/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/carlos/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/carlos"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home"/>
+    <property name="basedir" value="/Users/carlos/Dropbox/Jesuitas/entornos de desarrollo (31E_31F) - organizado/3aEvaluacion/2021/Diagramas de clases UML(2)/ED 31E-Entrega-CovidManager-621094/repasojava"/>
+    <property name="file.separator" value="/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/Users/carlos/Dropbox/Jesuitas/entornos de desarrollo (31E_31F) - organizado/3aEvaluacion/2021/Diagramas de clases UML(2)/ED 31E-Entrega-CovidManager-621094/repasojava/target/surefire/surefirebooter3892873142801290370.jar"/>
+    <property name="sun.boot.class.path" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/resources.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/rt.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/sunrsasign.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jsse.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jce.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/charsets.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jfr.jar:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/classes"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local, 169.254/16|*.local, 169.254/16"/>
+    <property name="java.runtime.version" value="1.8.0_271-b09"/>
+    <property name="user.name" value="carlos"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.16"/>
+    <property name="java.endorsed.dirs" value="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="/Users/carlos/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/pv/457r91393xz38dtdj35g_fhh0000gn/T/"/>
+    <property name="java.version" value="1.8.0_271"/>
+    <property name="user.dir" value="/Users/carlos/Dropbox/Jesuitas/entornos de desarrollo (31E_31F) - organizado/3aEvaluacion/2021/Diagramas de clases UML(2)/ED 31E-Entrega-CovidManager-621094/repasojava"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/Users/carlos/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.271-b09"/>
+    <property name="java.ext.dirs" value="/Users/carlos/Library/Java/Extensions:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="socksNonProxyHosts" value="local, 169.254/16|*.local, 169.254/16"/>
+  </properties>
+  <testcase name="testResta" classname="org.jesuitasrioja.ad.repasojava.modelo.CalculadoraTest" time="0"/>
+  <testcase name="testSuma" classname="org.jesuitasrioja.ad.repasojava.modelo.CalculadoraTest" time="0"/>
+  <testcase name="testDivision" classname="org.jesuitasrioja.ad.repasojava.modelo.CalculadoraTest" time="0.001"/>
+</testsuite>
