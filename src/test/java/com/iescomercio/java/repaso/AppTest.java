@@ -1,4 +1,4 @@
-package org.jesuitasrioja.ad.repasojava;
+package com.iescomercio.java.repaso;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

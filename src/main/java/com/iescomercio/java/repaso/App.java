@@ -1,4 +1,4 @@
-package org.jesuitasrioja.ad.repasojava;
+package com.iescomercio.java.repaso;
 
 /**
  * Hello world!

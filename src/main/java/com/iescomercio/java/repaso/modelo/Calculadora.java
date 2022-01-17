@@ -1,4 +1,4 @@
-package org.jesuitasrioja.ad.repasojava.modelo;
+package com.iescomercio.java.repaso.modelo;
 
 public class Calculadora {
 	

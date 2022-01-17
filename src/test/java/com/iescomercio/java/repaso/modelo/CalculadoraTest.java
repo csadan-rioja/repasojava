@@ -1,8 +1,10 @@
-package org.jesuitasrioja.ad.repasojava.modelo;
+package com.iescomercio.java.repaso.modelo;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import com.iescomercio.java.repaso.modelo.Calculadora;
 
 public class CalculadoraTest {
 	
